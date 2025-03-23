@@ -42,7 +42,7 @@
 import { useState } from "react";
 import axios from "axios";
 
-const BACKEND_URL = "https://54d9-34-143-209-115.ngrok-free.app";
+const BACKEND_URL = "https://4258-34-169-58-167.ngrok-free.app";
 
 const App = () => {
     const [prompt, setPrompt] = useState("");
